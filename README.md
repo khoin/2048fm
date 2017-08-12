@@ -2,7 +2,7 @@
 =====
 
 ## What is this?
-This is a FM (PM) synthesizer that runs in your web browser. Its file size is 2048bytes.
+This is a FM (PM) synthesizer that runs in your web browser. Its file size is 2048bytes (index.html). You can check out the commented source in uncompressed.html.
 
 ## Features
 
