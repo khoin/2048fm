@@ -26,7 +26,8 @@ This is a FM (PM) synthesizer that runs in your web browser. Its file size is 20
 * No release envelope stage :c
 * No fixed frequency mode. 
 * It is not a DX7 emulator :c I first wanted it to be one.
-* On my machine, if you don't have any modulation, it doesn't lag. But if you do, it usually lags out at 3-4 voices. 
+* On my machine, if you don't have any modulation, it doesn't lag. But if you do, it usually lags out at 3-4 voices. On my machine, it appears that Firefox's script processor isn't as fast. 
+* `<meta charset=utf8>` was added so the GUI would render correctly in Firefox and Edge.
 
 ## Diagram of parameters
 
