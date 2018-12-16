@@ -1,9 +1,9 @@
 2048b FM
 =====
 
-## More Intense
+## Less bytes?
 
-A more intense version of this is 1kilobyte, can be found here: [khoin/1kfm](https://github.com/khoin/1kfm)
+Smaller version of this is 1kilobyte, can be found here: [khoin/1kfm](https://github.com/khoin/1kfm)
 
 ## What is this?
 This is a FM (PM) synthesizer that runs in your web browser. Its file size is 2048bytes (index.html). You can check out the commented source in uncompressed.html. 
